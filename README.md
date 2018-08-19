@@ -14,3 +14,5 @@ This game opens a graphic window that displays the pet's information and status.
 The game uses a graphics library that was created from tkinter. 
 A copy of this library is attached and labelled "graphics.py".
 
+### Additional Information
+More: https://devpost.com/software/virtual-pet-simulator
