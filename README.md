@@ -6,7 +6,7 @@ The goal of this game is to keep your pet alive for as long as possible.
 To keep the pet alive, the user must tend to its 'needs' (i.e. hunger, boredom and fatigue).
 The need levels increase with every new day, and the user can choose only one of the needs to tend to daily.
 
-## Prerequisites
+### Prerequisites
 This program is written in Python 3.0 and run in a command line interface.
 
 ### Implementation
